@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmadatimo
+- 👋 Hi, I’m @Ahmed Hatem
 - 👀 I’m interested in passing my university
 - 🌱 I’m currently studying programming as a freshman in Bilkent.
 - 💞️ I’m looking to collaborate on ...
